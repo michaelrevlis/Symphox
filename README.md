@@ -20,6 +20,7 @@ Tabbar. Subclassed and modified UI components from [Ramotion](https://github.com
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_eticket.mp4)
 
 
-# ¨ÑÀ³°ÓOTP
+# ä¾›æ‡‰å•†OTP
 Preview
-![](https://github.com/michaelrevlis/Symphox/blob/master/¨ÑÀ³°ÓOTP/¨ÑÀ³°ÓOTP_gif01.gif)
+
+![](https://github.com/michaelrevlis/Symphox/blob/master/ä¾›æ‡‰å•†OTP/ä¾›æ‡‰å•†OTP_gif01.gif)
