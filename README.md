@@ -6,10 +6,10 @@ Login page.
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_login.gif)
 
-Loading. Customized a progress view with filled-in water-wave TreeMall logo. For image loading animation, [Lottie from Airbna](https://airbnb.design/introducing-lottie/) is adopted.
+Loading. Customized a progress view with filled-in water-wave TreeMall logo. For image loading animation, [Lottie](https://airbnb.design/introducing-lottie/) from Airbna is adopted.
 
-![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_loading01.gif)
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_loading02.gif)
+![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_loading01.gif)
 
 Adding product to shopping cart.
 
