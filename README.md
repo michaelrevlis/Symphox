@@ -18,3 +18,8 @@ Tabbar. Subclassed and modified UI components from [Ramotion](https://github.com
 
 2. UI test.
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_eticket.mp4)
+
+
+# 供應商OTP
+Preview
+![](https://github.com/michaelrevlis/Symphox/blob/master/供應商OTP/供應商OTP_gif01.gif)
