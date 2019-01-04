@@ -20,11 +20,27 @@ Tabbar. Subclassed and modified UI components from [Ramotion](https://github.com
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_tabbar.gif)
 
-2. UI test.
+2. UI Tests.
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_eticket.gif)
+![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/Test_login.gif)
+
 
 
 # 供應商OTP (Preview)
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/SupplierOTP/SupplierOTP_gif01.gif)
+
+
+
+# 神坊EC管家
+
+Before ==> After
+Additional features: sorting, highlighting focused target, and analyzing historical data.
+
+![](https://github.com/michaelrevlis/Symphox/blob/master/SymphoxECBulter/ECBulter_01.png)
+![](https://github.com/michaelrevlis/Symphox/blob/master/SymphoxECBulter/ECBulter_02.png)
+
+Adding widget and passing data to it.
+
+![](https://github.com/michaelrevlis/Symphox/blob/master/SymphoxECBulter/ECBulter_widget_02.png)
