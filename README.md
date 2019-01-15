@@ -2,6 +2,8 @@
 
 1. Animations
 
+2. UI Tests
+
 Login page.
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_login.gif)
@@ -20,14 +22,14 @@ Tabbar. Subclassed and modified UI components from [Ramotion](https://github.com
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_animation_tabbar.gif)
 
-2. UI Tests.
+UI Tests.
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/TreeMall_eticket.gif)
 ![](https://github.com/michaelrevlis/Symphox/blob/master/TreeMall/Test_login.gif)
 
 
 
-# 供應商OTP (Preview)
+# 供應商OTP (Snapshot)
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/SupplierOTP/SupplierOTP_gif01.gif)
 
@@ -35,8 +37,12 @@ Tabbar. Subclassed and modified UI components from [Ramotion](https://github.com
 
 # 神坊EC管家
 
-Before ==> After
-Additional features: sorting, highlighting focused target, and analyzing historical data.
+1. Interface redesigned.
+
+2. Widget for dashboard.
+
+
+After redesigned, additional features were added in: sorting, highlighting focused target, and analyzing historical data.
 
 ![](https://github.com/michaelrevlis/Symphox/blob/master/SymphoxECBulter/ECBulter_01.png)
 ![](https://github.com/michaelrevlis/Symphox/blob/master/SymphoxECBulter/ECBulter_02.png)
